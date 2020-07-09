@@ -1,13 +1,16 @@
 {
-  "name": "proto-generator",
+  "name": "typescript-proto",
+  "maintainers": [
+    "Philipp Fock @ Salamantex"
+  ],
   "main": "build/index",
   "typings": "build/index",
   "version": "1.0.0",
-  "description": "Typesafe gRPC with RxJS in TypeScript",
+  "description": "Generating Typescript interfaces for protobuf definitions",
   "license": "MIT",
   "keywords": [],
   "bin": {
-    "proto-generator": "bin/proto-generator"
+    "typescript-proto": "bin/typescript-proto"
   },
   "scripts": {
     "start": "node build/cli",
