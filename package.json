@@ -19,7 +19,7 @@
   "dependencies": {
     "@grpc/proto-loader": "0.5.4",
     "bluebird": "3.7.2",
-    "grpc": "1.21.1",
+    "grpc": "1.24.9",
     "jscodeshift": "0.10.0",
     "minimist": "1.2.5",
     "mz": "2.6.0",
