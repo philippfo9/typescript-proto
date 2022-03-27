@@ -21,7 +21,7 @@
     "bluebird": "3.7.2",
     "grpc": "1.21.1",
     "jscodeshift": "0.10.0",
-    "minimist": "1.2.5",
+    "minimist": "1.2.6",
     "mz": "2.6.0",
     "protobufjs": "6.9.0",
     "tmp": "0.2.1"
